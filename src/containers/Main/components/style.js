@@ -3,16 +3,20 @@ import { CardContent, Typography } from '../../../components'
 
 export const LabelStyled = styled(Typography)`
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.125rem;
 `
 
 export const ValueStyled = styled(Typography)`
   font-weight: 400;
   font-size: 2.5rem;
+  font-weight: 600;
 `
 
 export const CardContentStyled = styled(CardContent)`
-  border-left: 8px solid ${({ color }) => color || '#5d78ff'};
+  color: ${({ color }) => color || '#000'};
+  border-radius: 0.125rem;
 `
 
 export const CardPanelContentStyled = styled(CardContent)`
