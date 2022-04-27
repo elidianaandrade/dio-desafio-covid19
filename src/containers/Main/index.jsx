@@ -4,6 +4,8 @@ import Board from './components/Board'
 import Panel from './components/Panel'
 import { ContainerStyled } from './style'
 
+export default memo(Main)
+
 function Main() {
   const [data, setData] = useState({})
   const [country, setCountry] = useState('brazil')
@@ -40,4 +42,3 @@ function Main() {
   )
 }
 
-export default memo(Main)
