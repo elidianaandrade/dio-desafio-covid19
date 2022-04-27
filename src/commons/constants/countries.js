@@ -4,8 +4,6 @@ import GermanyFlag from '../../assets/images/germany.png'
 import ItalyFlag from '../../assets/images/italy.png'
 import UsaFlag from '../../assets/images/usa.png'
 
-export default COUNTRIES
-
 const COUNTRIES = [
   {
     label: 'Alemanha',
@@ -34,3 +32,4 @@ const COUNTRIES = [
   }
 ]
 
+export default COUNTRIES
