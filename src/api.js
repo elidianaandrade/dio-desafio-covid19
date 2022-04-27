@@ -6,7 +6,11 @@ const headers = {
   cache: 'default'
 }
 
-export default function getCountry(country) {
+export default {
+  getCountry,
+};
+
+function getCountry(country) {
   return fetch(`${path}/${country}`, headers)
     .then((response) => response.json())
 }
