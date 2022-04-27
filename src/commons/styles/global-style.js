@@ -28,11 +28,16 @@ const globalStyle = createGlobalStyle`
   }
 
   .mb-2 {
-    margin-bottom: 16px;
+    margin: 1rem 0;
+  }
+
+  .title-container {
+    display: flex;
+    flex-direction: column;
   }
 
   .pt-2 {
-    padding-top: 16px;
+    margin-top: 2rem;
   }
 
   .cursor {

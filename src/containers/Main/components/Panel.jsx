@@ -48,13 +48,16 @@ function Panel({ updateAt, onChange, data, country, getCoviddata }) {
     </div>
   )
 
+
   return (
-    <Card>
-      <CardPanelContentStyled>
+    <Card variant="outlined" style={{borderColor: "white"}}>
+      <CardPanelContentStyled> 
         <div>
-          <Typography variant="h5" component="span" color="primary">COVID19</Typography>
-          <Typography variant="h6" component="span" color="primary"> Painel Coronavírus </Typography>
-          <Typography variant="body2" component="span" color="primary"> Atualizado em: {updateAt}</Typography>
+          <div className="title-container">
+            <Typography variant="h3" component="span" color="inherit">DASHBOARD COVID-19</Typography>
+            <Typography variant="h5" component="span" color="inherit">Painel de Casos do Coronavírus</Typography>
+            <Typography variant="body2" component="span" color="inherit">Última atualização: {updateAt}</Typography>
+          </div>
           <div className="pt-2">
             <Select onChange={onChange} value={country}>
               {COUNTRIES.map(renderCountries)}
