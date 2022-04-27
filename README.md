@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://elidianaandrade.github.io/dio-desafio-covid19/">
-    <img alt="DASHBOARD COVID-19" src="https://github.com/elidianaandrade/archstil-netflix-clone/blob/main/assets/img/archstil-screen.png?raw=true">
+    <img alt="DASHBOARD COVID-19" src="https://github.com/elidianaandrade/dio-desafio-covid19/blob/main/src/assets/images/covid-screen.jpg?raw=true">
   </a>
 </div>
 <br>
@@ -12,7 +12,7 @@ Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 
 ### Exemplo da aula
 <div align="left">
-    <img alt="COVID-19 Painel" width="600"  src="https://github.com/elidianaandrade/archstil-netflix-clone/blob/main/assets/img/archstil-screen.png?raw=true">
+    <img alt="COVID-19 Painel" width="600"  src="https://github.com/elidianaandrade/dio-desafio-covid19/blob/main/src/assets/images/covid-screen-exemplo-aula.jpg?raw=true">
 </div>
 
 ## ⚙ Modificações que realizei no projeto exemplo
