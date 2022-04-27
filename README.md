@@ -21,7 +21,7 @@ Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 - [x] Formatação dos números;
 - [x] Posicionamento dos textos;
 - [x] Estilização dos cards e textos;
-- [x] Background;
+- [x] Background.
 
 **Exemplo da aula**
 <div align="left">
