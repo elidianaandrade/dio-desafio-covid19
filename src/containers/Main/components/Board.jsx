@@ -1,7 +1,8 @@
 import React, { memo } from 'react'
-import PropTypes from 'prop-types'
 import { Grid, Skeleton } from '../../../components'
 import Card from './Card'
+
+export default memo(Board)
 
 function Board({ data }) {
   const { cases, todayDeaths, recovered, deaths, todayCases } = data
@@ -29,4 +30,3 @@ function Board({ data }) {
   )
 }
 
-export default memo(Board)

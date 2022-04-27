@@ -1,10 +1,11 @@
 import React, { memo } from 'react'
-import RefreshIcon from '../../../assets/images/refresh.svg'
 import { Card, Typography, Button, Select, MenuItem } from '../../../components'
 import COUNTRIES from '../../../commons/constants/countries'
 import { CardPanelContentStyled, ItemStyled } from './style'
 
 const navigatorHasShare = navigator.share
+
+export default memo(Panel)
 
 function Panel({ updateAt, onChange, data, country, getCoviddata }) {
   const { recovered } = data
@@ -70,4 +71,3 @@ function Panel({ updateAt, onChange, data, country, getCoviddata }) {
   )
 }
 
-export default memo(Panel)

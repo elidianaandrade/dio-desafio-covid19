@@ -6,6 +6,8 @@ import {
   CardContentStyled
 } from './style'
 
+export default memo(Card)
+
 function Card({ value, label, color }) {
   return (
     <CardUI>
@@ -17,4 +19,3 @@ function Card({ value, label, color }) {
   )
 }
 
-export default memo(Card)
