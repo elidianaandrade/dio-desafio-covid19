@@ -17,7 +17,7 @@ Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 
 ## ⚙ Modificações que realizei no projeto exemplo
 - [x] Formatação dos números;
-- [x] Estrutura do Grid, permanecendo os card em column em tela menores que 600px;
+- [x] Estrutura do Grid, permanecendo um card por linha em telas menores que 600px;
 - [x] CSS dos cards e textos;
 - [x] Background;
 
