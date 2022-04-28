@@ -10,6 +10,8 @@
 ## 📊 Sobre o projeto
 Progressive Web Application com React para mapear os dados do COVID19 pelo mundo, desenvolvida no curso de React da [Digital Innovation One](https://www.dio.me/).
 
+🔗 [**Ver projeto**](https://dio-desafio-covid19.netlify.app/)
+
 ## 💻 Technologies
 [![React.JS](https://img.shields.io/badge/React.JS-000?style=for-the-badge&logo=react&logoColor=61dafb)](https://pt-br.reactjs.org/docs/getting-started.html)
 [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
