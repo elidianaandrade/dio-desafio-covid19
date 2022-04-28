@@ -14,7 +14,6 @@ Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 
 ## 💻 Technologies
 [![React.JS](https://img.shields.io/badge/React.JS-000?style=for-the-badge&logo=react&logoColor=61dafb)](https://pt-br.reactjs.org/docs/getting-started.html)
-[![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=00BFFF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
