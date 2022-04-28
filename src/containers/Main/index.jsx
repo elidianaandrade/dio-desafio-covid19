@@ -12,7 +12,7 @@ function Main() {
   const updateAt = new Date().toLocaleString()
 
   const getCovidData = useCallback((country) => {
-    Api.getCountry(country)
+    Api(country)
       .then(data => setData(data))
   }, [])
 
