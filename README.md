@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://elidianaandrade.github.io/dio-desafio-covid19/">
+  <a href="https://dio-desafio-covid19.netlify.app/">
     <img alt="DASHBOARD COVID-19" src="https://github.com/elidianaandrade/dio-desafio-covid19/blob/main/src/assets/images/covid-screen.jpg?raw=true">
   </a>
 </div>
@@ -18,6 +18,7 @@ Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 
 ## ⚙ Modificações que realizei no projeto exemplo
 - [x] Estrutura do Grid, permanecendo um card por linha em telas menores que 600px;
+- [x] Posicionamento (mobile) e link do botão compartilhar;
 - [x] Formatação dos números;
 - [x] Posicionamento dos textos;
 - [x] Estilização dos cards e textos;
