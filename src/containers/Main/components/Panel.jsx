@@ -52,20 +52,22 @@ function Panel({ updateAt, onChange, data, country, getCoviddata }) {
 
   return (
     <Card variant="outlined" style={{borderColor: "white"}}>
-      <CardPanelContentStyled> 
+      <CardPanelContentStyled>
         <div>
-          <div className="title-container">
+          <div class="title-container">
             <Typography variant="h3" component="span" color="inherit">DASHBOARD COVID-19</Typography>
-            <Typography variant="h5" component="span" color="inherit">Painel de Casos do Coronavírus</Typography>
-            <Typography variant="body2" component="span" color="inherit">Última atualização: {updateAt}</Typography>
+            {navigatorHasShare ? renderShareButton : renderCopyButton} 
+          </div>
+          <div className="text-container">
+              <Typography variant="h5" component="span" color="inherit">Painel de Casos do Coronavírus</Typography>
+              <Typography variant="body2" component="span" color="inherit">Última atualização: {updateAt}</Typography>
           </div>
           <div className="pt-2">
-            <Select onChange={onChange} value={country}>
-              {COUNTRIES.map(renderCountries)}
-            </Select>
+              <Select onChange={onChange} value={country}>
+                {COUNTRIES.map(renderCountries)}
+              </Select>
           </div>
         </div>
-        {navigatorHasShare ? renderShareButton : renderCopyButton}
       </CardPanelContentStyled>
     </Card>
   )

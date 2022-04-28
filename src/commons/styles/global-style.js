@@ -33,7 +33,13 @@ const globalStyle = createGlobalStyle`
 
   .title-container {
     display: flex;
-    flex-direction: column;
+    flex-flow: row wrap; 
+    justify-content: space-between;   
+  }
+
+  .text-container {
+    display: flex;
+    flex-direction: column; 
   }
 
   .pt-2 {

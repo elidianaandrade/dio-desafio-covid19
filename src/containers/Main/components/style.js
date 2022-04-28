@@ -23,6 +23,7 @@ export const CardContentStyled = styled(CardContent)`
 
 export const CardPanelContentStyled = styled(CardContent)`
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   padding: 1rem;
 `
