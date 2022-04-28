@@ -18,7 +18,7 @@ Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## ⚙ Modificações que realizei no projeto exemplo
-- [x] Estrutura do Grid, permanecendo um card por linha em telas menores que 600px;
+- [x] Estrutura do Grid, permanecendo um card por linha em dispositivos menores que 600px;
 - [x] Posicionamento (mobile) e link do botão compartilhar;
 - [x] Formatação dos números;
 - [x] Posicionamento dos textos;
