@@ -1,38 +1,37 @@
-<div align="center">
+<div id="top" align="center">
   <a href="https://dio-desafio-covid19.netlify.app/">
-    <img alt="DASHBOARD COVID-19" src="https://github.com/elidianaandrade/dio-desafio-covid19/blob/main/src/assets/images/covid-screen.jpg?raw=true">
+    <img alt="DASHBOARD COVID-19" src="https://github.com/elidianaandrade/utilities/blob/main/templates/README/img/covers/dio-desafio-covid19.png?raw=true">
   </a>
 </div>
-<br>
 
-# DASHBOARD COVID-19 | Painel de Casos do Coronavírus
+# PWA COVID-19 | Coronavirus Case Dashboard
 
-## 📊 Sobre o projeto
-Progressive Web Application com React para mapear os dados do COVID19 pelo mundo, desenvolvida no curso de React da [Digital Innovation One](https://www.dio.me/).
+## 📊 About the project
+Progressive Web Application with React to map COVID19 data around the world. This project was developed for learning purposes in the course of the [Digital Innovation One](https://www.dio.me/).
 
-🔗 [**Ver projeto**](https://dio-desafio-covid19.netlify.app/)
+[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=netlify&logoColor=7520FF)](https://dio-desafio-covid19.netlify.app/)
 
 ## 💻 Technologies
-[![React.JS](https://img.shields.io/badge/React.JS-000?style=for-the-badge&logo=react&logoColor=61dafb)](https://pt-br.reactjs.org/docs/getting-started.html)
-[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=00BFFF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![React.JS](https://img.shields.io/badge/React.JS-000?style=for-the-badge&logo=react&logoColor=7520FF)](https://pt-br.reactjs.org/docs/getting-started.html)
+[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=7520FF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=7520FF)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## ⚙ Modificações que realizei no projeto exemplo
-- [x] Estrutura do Grid, permanecendo um card por linha em dispositivos menores que 600px;
-- [x] Posicionamento (mobile) e link do botão compartilhar;
-- [x] Formatação dos números;
-- [x] Posicionamento dos textos;
-- [x] Estilização dos cards e textos;
+## ⚙ Functionalities
+- [x] Grid structure, remaining one card per row on devices smaller than 600px;
+- [x] Positioning (mobile) and share button link;
+- [x] Formatting the numbers;
+- [x] Positioning of texts;
+- [x] Stylization of cards and texts;
 - [x] Background.
 
-**Exemplo da aula**
+**Class example**
 <div align="left">
     <img alt="COVID-19 Painel" width="600"  src="https://github.com/elidianaandrade/dio-desafio-covid19/blob/main/src/assets/images/covid-screen-exemplo-aula.jpg?raw=true">
 </div>
 
-<br>
-
-
+## 🔍 References
+- [Repository Bruno Carneiro](https://github.com/Tautorn/covid19-dio).
+- [Digital Innovation One](https://www.dio.me/).
 
 <div align="right">
   <a href="#top">
