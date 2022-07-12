@@ -16,7 +16,7 @@ Progressive Web Application with React to map COVID19 data around the world. Thi
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=7520FF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=7520FF)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## ⚙ Functionalities
+## 🔄 Changes I made to the example project
 - [x] Grid structure, remaining one card per row on devices smaller than 600px;
 - [x] Positioning (mobile) and share button link;
 - [x] Formatting the numbers;
@@ -24,7 +24,7 @@ Progressive Web Application with React to map COVID19 data around the world. Thi
 - [x] Stylization of cards and texts;
 - [x] Background.
 
-**Class example**
+**Reference project**
 <div align="left">
     <img alt="COVID-19 Painel" width="600"  src="https://github.com/elidianaandrade/dio-desafio-covid19/blob/main/src/assets/images/covid-screen-exemplo-aula.jpg?raw=true">
 </div>
