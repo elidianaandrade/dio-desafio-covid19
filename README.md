@@ -30,7 +30,7 @@ Progressive Web Application com React para mapear dados da COVID-19 ao redor do 
 </div>
 
 ## 🔍 Referências
-- [Repositório Bruno Carneiro](https://github.com/Tautorn/covid19-dio).
+- [Repositório do Instrutor Bruno Carneiro](https://github.com/Tautorn/covid19-dio).
 - [Digital Innovation One](https://www.dio.me/).
 
 <div align="right">
