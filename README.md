@@ -4,33 +4,33 @@
   </a>
 </div>
 
-# PWA COVID-19 | Coronavirus Case Dashboard
+# PWA COVID-19 | Painel de Casos COVID-19
 
-## 📊 About the project
-Progressive Web Application with React to map COVID19 data around the world. This project was developed for learning purposes in the course of the [Digital Innovation One](https://www.dio.me/).
+## 📊 Sobre o projeto
+Progressive Web Application com React para mapear dados da COVID-19 ao redor do mundo, desenvolvido para fins de aprendizagem no Desafio de Projeto da [Digital Innovation One](https://www.dio.me/).
 
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=netlify&logoColor=7520FF)](https://dio-desafio-covid19.netlify.app/)
 
-## 💻 Technologies
+## 💻 Tecnologias
 [![React.JS](https://img.shields.io/badge/React.JS-000?style=for-the-badge&logo=react&logoColor=7520FF)](https://pt-br.reactjs.org/docs/getting-started.html)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=7520FF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=7520FF)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 🔄 Changes I made to the example project
-- [x] Grid structure, remaining one card per row on devices smaller than 600px;
-- [x] Positioning (mobile) and share button link;
-- [x] Formatting the numbers;
-- [x] Positioning of texts;
-- [x] Stylization of cards and texts;
+## 🔄 Alterações que fiz em relação ao projeto referência
+- [x] Grid permanecendo um cartão por linha em dispositivos menores que 600px;
+- [x] Posicionamento (mobile) e URL do botão de compartilhamento;
+- [x] Formatação dos números;
+- [x] Posicionamento dos textos;
+- [x] Estilização dos cards e textos;
 - [x] Background.
 
-**Reference project**
+**Projeto referência**
 <div align="left">
     <img alt="COVID-19 Painel" width="600"  src="https://github.com/elidianaandrade/dio-desafio-covid19/blob/main/src/assets/images/covid-screen-exemplo-aula.jpg?raw=true">
 </div>
 
-## 🔍 References
-- [Repository Bruno Carneiro](https://github.com/Tautorn/covid19-dio).
+## 🔍 Referências
+- [Repositório Bruno Carneiro](https://github.com/Tautorn/covid19-dio).
 - [Digital Innovation One](https://www.dio.me/).
 
 <div align="right">
